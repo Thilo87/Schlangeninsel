@@ -1,2 +1,2 @@
 # Schlangeninsel
-A simple console adventure game written in Python. Language: German.
+A simple console RPG written in Python. Language: German.
